@@ -1,5 +1,6 @@
-package com.keepgulp.demo.base
+package com.keepgulp.demo.base.function
 
+//函数
 object FunctionTest {
 
   def main(args: Array[String]): Unit = {

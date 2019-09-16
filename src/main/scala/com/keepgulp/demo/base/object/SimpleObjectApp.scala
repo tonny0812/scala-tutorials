@@ -1,5 +1,6 @@
-package com.keepgulp.demo.base
+package com.keepgulp.demo.base.`object`
 
+//对象
 object SimpleObjectApp {
 
   def main(args: Array[String]): Unit = {
